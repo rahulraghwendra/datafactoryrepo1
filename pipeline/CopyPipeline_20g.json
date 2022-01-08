@@ -61,7 +61,6 @@
 						"mappings": [
 							{
 								"source": {
-									"type": "String",
 									"ordinal": 1
 								},
 								"sink": {

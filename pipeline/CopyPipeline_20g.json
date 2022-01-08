@@ -27,7 +27,7 @@
 					"source": {
 						"type": "DelimitedTextSource",
 						"storeSettings": {
-							"type": "FileServerReadSettings",
+							"type": "AzureBlobStorageReadSettings",
 							"recursive": true,
 							"enablePartitionDiscovery": false
 						},
@@ -267,7 +267,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "SourceDataset_20g",
+						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					}
 				],

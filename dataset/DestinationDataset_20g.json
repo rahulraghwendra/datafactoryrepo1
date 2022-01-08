@@ -11,32 +11,23 @@
 			{
 				"name": "EmployeeID",
 				"type": "int",
-				"precision": 10,
-				"scale": 0
+				"precision": 10
 			},
 			{
 				"name": "LastName",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "FirstName",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "Title",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "TitleOfCourtesy",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "BirthDate",
@@ -52,69 +43,48 @@
 			},
 			{
 				"name": "Address",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "City",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "Region",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "PostalCode",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "Country",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "HomePhone",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "Extension",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			},
 			{
 				"name": "Photo",
-				"type": "image",
-				"precision": 0,
-				"scale": 0
+				"type": "image"
 			},
 			{
 				"name": "Notes",
-				"type": "ntext",
-				"precision": 0,
-				"scale": 0
+				"type": "ntext"
 			},
 			{
 				"name": "ReportsTo",
 				"type": "int",
-				"precision": 10,
-				"scale": 0
+				"precision": 10
 			},
 			{
 				"name": "PhotoPath",
-				"type": "nvarchar",
-				"precision": 0,
-				"scale": 0
+				"type": "nvarchar"
 			}
 		],
 		"typeProperties": {

@@ -21,6 +21,75 @@
 		},
 		"schema": [
 			{
+				"name": "EmployeeID",
+				"type": "String"
+			},
+			{
+				"name": "LastName",
+				"type": "String"
+			},
+			{
+				"name": "FirstName",
+				"type": "String"
+			},
+			{
+				"name": "Title",
+				"type": "String"
+			},
+			{
+				"name": "TitleOfCourtesy",
+				"type": "String"
+			},
+			{
+				"name": "BirthDate",
+				"type": "String"
+			},
+			{
+				"name": "HireDate",
+				"type": "String"
+			},
+			{
+				"name": "Address",
+				"type": "String"
+			},
+			{
+				"name": "City",
+				"type": "String"
+			},
+			{
+				"name": "Region",
+				"type": "String"
+			},
+			{
+				"name": "PostalCode",
+				"type": "String"
+			},
+			{
+				"name": "Country",
+				"type": "String"
+			},
+			{
+				"name": "HomePhone",
+				"type": "String"
+			},
+			{
+				"name": "Extension",
+				"type": "String"
+			},
+			{
+				"name": "Photo",
+				"type": "String"
+			},
+			{
+				"name": "Notes",
+				"type": "String"
+			},
+			{
+				"name": "ReportsTo",
+				"type": "String"
+			},
+			{
+				"name": "PhotoPath\r",
 				"type": "String"
 			}
 		]

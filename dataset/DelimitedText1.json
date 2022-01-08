@@ -13,7 +13,7 @@
 				"fileName": "NorthwindEmployees.txt",
 				"container": "copyactivity-logs"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": "|",
 			"escapeChar": "\\",
 			"quoteChar": "\""
 		},
